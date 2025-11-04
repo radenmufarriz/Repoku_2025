@@ -3,3 +3,5 @@ ini file 1
 =======
 file terubah
 >>>>>>> f16ecc454f97c8f7690e0e4fd71a15789ed0b887
+
+file sudah di perbaiki
